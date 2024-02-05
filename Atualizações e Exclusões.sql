@@ -19,6 +19,6 @@ SELECT * FROM Internacao;
 
 
 
-Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DECLARE @ConvenioID INT' at line 1
+
 
 
